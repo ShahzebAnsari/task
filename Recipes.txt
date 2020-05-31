@@ -5,6 +5,7 @@ Welcome to kitchen
 Kheer
 Pasta
 Chicken Burger
+Samosa
 
 Beans
 Pizza
